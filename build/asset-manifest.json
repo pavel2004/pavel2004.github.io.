@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e2e5e66.css",
+    "main.js": "/static/js/main.4a6ebde8.js",
+    "static/media/bg.jpg": "/static/media/bg.2ba41c8e1391ee1876ec.jpg",
+    "static/media/Raleway-Light.svg": "/static/media/Raleway-Light.31de1e0fdde00f4c8fcd.svg",
+    "static/media/Roboto-Medium.svg": "/static/media/Roboto-Medium.44f4ed81bd1495dc6d66.svg",
+    "static/media/фин_1.pdf": "/static/media/фин_1.e08a2d6c9711ca97630e.pdf",
+    "static/media/фин_раз_1.pdf": "/static/media/фин_раз_1.9bf4c4721ee94d980fe6.pdf",
+    "static/media/отб_раз_1.pdf": "/static/media/отб_раз_1.7ef391ab40898c38b8ec.pdf",
+    "static/media/отб_1.pdf": "/static/media/отб_1.1179a45180ec966f885c.pdf",
+    "static/media/отб_раз_2.pdf": "/static/media/отб_раз_2.97613d6f9461fa888c9d.pdf",
+    "static/media/Roboto-Medium.eot": "/static/media/Roboto-Medium.95a5d9131d3469c3ce5e.eot",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Raleway-Light.eot": "/static/media/Raleway-Light.af21cde274136cce4242.eot",
+    "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
+    "static/media/Raleway-Light.woff": "/static/media/Raleway-Light.400fe35fac9eefa6a0aa.woff",
+    "static/media/Roboto-Medium.woff": "/static/media/Roboto-Medium.cba5ac969c9211cbd2b5.woff",
+    "static/media/icon.png": "/static/media/icon.ea98d1d854c86489ef22.png",
+    "static/media/фин_1.docx": "/static/media/фин_1.5376de03930f6bd2d24a.docx",
+    "static/media/KarloCham-Line.eot": "/static/media/KarloCham-Line.6e68f7ca9122e98a66b0.eot",
+    "static/media/KarloCham-Line.ttf": "/static/media/KarloCham-Line.3f6c5ed4977ff502ca99.ttf",
+    "static/media/KarloCham-Line.svg": "/static/media/KarloCham-Line.5327b11c14abac6f8034.svg",
+    "static/media/KarloCham-Line.woff": "/static/media/KarloCham-Line.22baa0a68ec28bd71f1a.woff",
+    "index.html": "/index.html",
+    "main.5e2e5e66.css.map": "/static/css/main.5e2e5e66.css.map",
+    "main.4a6ebde8.js.map": "/static/js/main.4a6ebde8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e5e66.css",
+    "static/js/main.4a6ebde8.js"
+  ]
+}
